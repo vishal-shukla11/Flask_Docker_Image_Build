@@ -17,8 +17,6 @@ Create a directory for your Flask project and navigate into it:
 Step 2: Create a Virtual Environment and Install Flask
 Set up a virtual environment to isolate your Python dependencies:
 
-bash
-Copy code
 python3 -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 Install Flask:  
